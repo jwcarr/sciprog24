@@ -2,7 +2,9 @@
 
 Welcome to this course on Scientific Programming. My name is [Jon Carr](https://joncarr.net). I am currently a postdoc at Royal Holloway in London, but I used to be a postdoc in Davide Crepaldi’s lab at SISSA. I will be your guide to programming over this week-long course. I look forward to meeting you all soon!
 
-This is a one-week intensive course, which will run daily **14:00–17:00 from Monday 4th to Friday 8th March 2024**. Although I will do a little bit of lecturing, the course will mostly be very interactive with lots of practical exercises and independent working. It is therefore important that **you bring a laptop computer with you**. Before attending the first class, please try to get your computer set up with the relevant software (see below).
+This is a one-week intensive course, which will run daily **14:00–17:00 from Monday 4th to Friday 8th March 2024**. Although I will do a little bit of lecturing, the course will mostly be very interactive with lots of practical exercises and independent working. It is therefore important that **you bring a laptop computer with you**.
+
+The first class will be in Room 004 on the ground floor. Note, however, that we will be in different rooms for the rest of the week (see schedule below). Before attending the first class, please try to get your computer set up with the relevant software (see below).
 
 The final lecture on best practices in scientific programming is open to anyone at SISSA, even if you didn’t follow the main course. This will be on Friday 8th at 16:00.
 
