@@ -103,13 +103,13 @@ Once installed, there are several different ways to open Jupyter Notebook; check
 
 ### Alternative installation options
 
-The Anaconda distribution is quite large, so if you prefer to be more minimalist, an alternative option is to install the official "vanilla" version of Python: https://www.python.org However, I would only recommend this option if you are reasonably familiar with the command line. Once Python is installed, you will then need to install the Jupyter Notebook package by running this command:
+The Anaconda distribution is quite large, so if you prefer to be more minimalist, an alternative option is to install the official "vanilla" version of Python: https://www.python.org However, I would only recommend this option if you are reasonably familiar with the command line. Once Python is installed, you will then need to install the required packages by running this command:
 
 ```bash
-pip install notebook
+pip install -r requirements.txt
 ```
 
-Once it has finished installing, you should be able to launch Jupyter like this:
+Once everything has finished installing, you should be able to launch Jupyter Notebook like this:
 
 ```bash
 jupyter notebook
@@ -124,7 +124,7 @@ mkdir sciprog23
 cd sciprog23
 python3 -m venv venv
 source venv/bin/activate
-pip install notebook
+pip install -r requirements.txt
 jupyter notebook
 ```
 
